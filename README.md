@@ -1,2 +1,2 @@
 # ai-and-ml-projects
-Data Science and Machine Learning projects
+Projects related to Data Science, Machine Learning, Analytics, Web Scraping etc.
